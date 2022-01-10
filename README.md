@@ -13,5 +13,5 @@
 <a href="https://discord.gg/vcJ568Rakv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vcJ568Rakv" height="30" width="40" /></a>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acegoal07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="acegoal07's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acegoal07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acegoal07&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="acegoal07's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acegoal07&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
