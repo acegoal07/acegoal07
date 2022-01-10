@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center"> 
+    <img src='https://raw.githubusercontent.com/acegoal07/acegoal07.github.io/master/Resources/Pictures/acegoal07.webP' alt="acegoal07" width=200px height=200px/>
+</div>
+<h3 align="center">acegoal07</h3>
 
-<!--
-**acegoal07/acegoal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talk with me:
+<p align="left">
+<a href="https://twitter.com/acegoal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acegoal07" height="30" width="40" /></a>
+<a href="https://discord.gg/vcJ568Rakv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vcJ568Rakv" height="30" width="40" /></a>
+</p>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=acegoal07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="acegoal07's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acegoal07&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
