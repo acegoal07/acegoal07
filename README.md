@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src='https://raw.githubusercontent.com/acegoal07/acegoal07.github.io/master/Resources/Pictures/acegoal07.webP' alt="acegoal07" width=200px height=200px/>
+    <img src='https://raw.githubusercontent.com/acegoal07/acegoal07.github.io/master/resources/pictures/acegoal07.webp' alt="acegoal07" width=200px height=200px/>
 </div>
 <h3 align="center">acegoal07</h3>
 
