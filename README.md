@@ -10,7 +10,7 @@
 ### Talk with me:
 <p align="left">
 <a href="https://twitter.com/acegoal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acegoal07" height="30" width="40" /></a>
-<a href="https://discord.gg/vcJ568Rakv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vcJ568Rakv" height="30" width="40" /></a>
+<a href="https://discord.gg/3gW9YryhYX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vcJ568Rakv" height="30" width="40" /></a>
 </p>
 
 <p align= "center">
