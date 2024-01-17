@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center">Hey i'm an 19 year old self taught programmer. I work on my projects along side doing school work so please be patient when it comes to updates and issues</p>
+<p align="center">Hey i'm an 20 year old self taught programmer. I work on my projects along side doing school work so please be patient when it comes to updates and issues</p>
 
 <h3 align="center">Stats</h3>
 <p align= "center">
