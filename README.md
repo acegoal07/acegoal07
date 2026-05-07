@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=acegoal07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=acegoal07&theme=vue-dark&hide_border=true&hide_total_contributions=true)<br>
+![]((https://streak-stats.demolab.com?user=acegoal07&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly))<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=acegoal07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 💰 You can help me by Donating
